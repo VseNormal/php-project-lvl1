@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "firs play of brain haxlet",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VseNormal",
+            "email": "kunitskiye@gmail.com"
+        }
+    ],
+    "require": {}
+}
