@@ -16,5 +16,7 @@
             "email": "kunitskiye@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "wp-cli/wp-cli": "dev-master"
+    }
 }
